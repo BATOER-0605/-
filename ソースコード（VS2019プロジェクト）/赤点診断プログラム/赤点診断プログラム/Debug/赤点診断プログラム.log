@@ -1,4 +1,0 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: 中間ディレクトリ (Debug\) に別のプロジェクト (赤点診断プログラム.vcxproj) と共有されているファイルが含まれています。これにより、クリーンしてリビルド動作が適切に行われない可能性があります。
-  ソース.c
-C:\Users\DouGa\source\repos\赤点診断プログラム\赤点診断プログラム\ソース.c(54,11): warning C4013: 関数 'system' は定義されていません。int 型の値を返す外部関数と見なします。
-  赤点診断プログラム.vcxproj -> C:\Users\DouGa\source\repos\赤点診断プログラム\Debug\評定診断プログラム.exe
